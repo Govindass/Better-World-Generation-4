@@ -107,7 +107,7 @@ public class ChunkGeneratorIndev implements IChunkProvider
 		{
 			if(s == 1) { size = 6; width = 1.2D; }
 			if(s == 2) { size = 12; width = 2D; }
-			if(s == 3) { size = 18; width = 3D; }
+			if(s == 3) { size = 128; width = 3D; }
 		}
 		if(typeIsland)
 		{
